@@ -1,0 +1,108 @@
+@import url(https://db.onlinewebfonts.com/c/025ec5b0249cb3874eb549b68534ac9e?family=Radikal+W03+Thin);
+
+.App {
+  text-align: center;
+}
+.table {
+  justify-content: center;
+  padding: 2px;
+  align-items: center;
+  width: 1300px;
+}
+.table-head {
+  background-color: rgb(232, 231, 231);
+  font-family: "Radikal W03 Thin";
+}
+
+.Team {
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+
+.Play {
+  padding: 3px;
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.Won {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.Draw {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.Lost {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.GF {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.GA {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.GD {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+.Points {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+
+.Form {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+
+tbody {
+  border: 10px solid;
+  text-align: left;
+  text-size-adjust: 50px;
+  font-family: "Radikal W03 Thin";
+}
+.Index {
+  text-align: center;
+  border-bottom: 1px solid rgb(232, 231, 231);
+}
+
+.FormResult {
+  background: red;
+  background-color: #49ff00;
+  border-radius: 50px;
+  margin: 2px;
+}
+.Green {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: lightgreen;
+  border-radius: 55%;
+}
+
+.Red {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: coral;
+  border-radius: 55%;
+}
+
+.Gray {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background-color: lightgray;
+  border-radius: 55%;
+}
+.plLogo {
+  padding: 20px;
+  width: 300px;
+  height: 100px;
+}
+h2 {
+  font-family: "Radikal W03 Thin";
+  text-decoration: none;
+}
